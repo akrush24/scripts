@@ -1,0 +1,1 @@
+sqlcmd -S 192.168.10.63 -U report -d vcenter -P Qwo6wEpcXZ -s ; -o c:\audit\log.txt -i c:\audit\audit.sql

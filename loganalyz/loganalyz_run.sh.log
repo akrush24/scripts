@@ -1,0 +1,1410 @@
+======================================================================
+Fri Aug  9 14:00:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 14:00:02 MSK 2013
+======================================================================
+Fri Aug  9 14:05:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 14:05:02 MSK 2013
+======================================================================
+Fri Aug  9 14:10:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:01 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:10:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 14:10:02 MSK 2013
+======================================================================
+Fri Aug  9 14:15:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 14:15:01 MSK 2013
+======================================================================
+Fri Aug  9 14:20:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:01 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 14:20:02 MSK 2013
+======================================================================
+Fri Aug  9 14:30:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:01 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 14:30:02 MSK 2013
+======================================================================
+Fri Aug  9 14:45:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 14:45:01 MSK 2013
+======================================================================
+Fri Aug  9 15:00:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 15:00:02 MSK 2013
+======================================================================
+Fri Aug  9 15:15:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:01 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:15:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 15:15:02 MSK 2013
+======================================================================
+Fri Aug  9 15:30:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 15:30:01 MSK 2013
+======================================================================
+Fri Aug  9 15:45:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 15:45:02 MSK 2013
+======================================================================
+Fri Aug  9 16:00:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:01 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 16:00:02 MSK 2013
+======================================================================
+Fri Aug  9 16:15:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 16:15:01 MSK 2013
+======================================================================
+Fri Aug  9 16:30:02 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 16:30:02 MSK 2013
+======================================================================
+Fri Aug  9 16:45:01 MSK 2013
+======================================================================
+ 
+[ars-vm01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:01 MSK 2013
+ 
+[ars-vm02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+file /zpool/ars-vm02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[ars-vm09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[ars-vm10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[ars-vm12.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[ars-vm14.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+file /zpool/ars-vm14.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm15.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+file /zpool/ars-vm15.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm17.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+file /zpool/ars-vm17.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm18.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[ars-vm20.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+file /zpool/ars-vm20.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[ars-vm21.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[ars-vm22.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+file /zpool/ars-vm22.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[avaya-esx03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[avaya-esx04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[avaya-esx05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[bipsr02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ERROR: No DIR /zpool/bipsr02.at-consulting.ru/2013-08
+file /zpool/bipsr02.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ERROR: No DIR /zpool/bipsr03.at-consulting.ru/2013-08
+file /zpool/bipsr03.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[bipsr04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ERROR: No DIR /zpool/bipsr04.at-consulting.ru/2013-08
+file /zpool/bipsr04.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-01.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+file /zpool/esx-01.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-02.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-03.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-04.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-05.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-06.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-07.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-08.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-09.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-10.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ERROR: No DIR /zpool/esx-10.at-consulting.ru/2013-08
+file /zpool/esx-10.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-mcu.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-epm.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-p2v.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[esx-voip.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[ars-vm19.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ 
+[ars-vm11.at-consulting.ru] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
+ERROR: No DIR /zpool/ars-vm11.at-consulting.ru/2013-08
+file /zpool/ars-vm11.at-consulting.ru/2013-08/vmkernel-2013-08-09 does't exist...
+ 
+[esx-s03] Log analyz is starting.... Fri Aug  9 16:45:02 MSK 2013
