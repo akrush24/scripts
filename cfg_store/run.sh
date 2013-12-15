@@ -1,6 +1,8 @@
 #!/bin/bash
 # Store configuration files
 #
+
+DATA='/home/akrush/CFG_DATA'
 for H in `/bin/ls -1 cfgs/*`;do
 
 	cfg_HOST=`basename $H`
@@ -19,14 +21,14 @@ for H in `/bin/ls -1 cfgs/*`;do
 			cfg_PATH="${cfg_ALL}/";
 		fi
 			
-		cfg_STORE_PATH=data/${cfg_HOST}/${cfg_PATH};
+		cfg_STORE_PATH=${DATA}/${cfg_HOST}/${cfg_PATH};
 
 		if [ ! -d ${cfg_STORE_PATH} ];then 
 			mkdir -p ${cfg_STORE_PATH};
 		fi;
 	
-		echo "rsync -rlptgoD ${cfg_USER}@${cfg_HOST}:${cfg} ${cfg_STORE_PATH}"
-		rsync -rlptgoD ${cfg_USER}@${cfg_HOST}:${cfg} ${cfg_STORE_PATH}
+		echo "rsync -rptgoDL ${cfg_USER}@${cfg_HOST}:${cfg} ${cfg_STORE_PATH}"
+		rsync -rptgoDL ${cfg_USER}@${cfg_HOST}:${cfg} ${cfg_STORE_PATH}
 	done
 
 done
