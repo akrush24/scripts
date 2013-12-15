@@ -1,0 +1,6 @@
+d:akrush:/etc/samba
+f:akrush:/etc/hosts
+d:akrush:/home/akrush/.ssh/
+f:akrush:/etc/passwd*
+#d:root:/etc/
+f:akrush:/etc/bashrc
