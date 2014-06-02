@@ -1,2 +1,7 @@
 #!/bin/bash
-cat /dev/urandom | tr -dc 'a-zA-Z0-9-_!@#$%^&*()_+{}|:<>?=' | fold -w 10 | head -n 5
+if [ -n "$1" ] && [ "$1" = "num" ]
+then
+	cat /dev/urandom | tr -dc '0-9' | fold -w 10 | head -n 5
+else
+	cat /dev/urandom | tr -dc 'a-zA-Z0-9-_!@#$%^&*()_+{}|:<>?=' | fold -w 10 | head -n 5
+fi
