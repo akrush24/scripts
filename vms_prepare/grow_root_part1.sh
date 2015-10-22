@@ -41,6 +41,8 @@ else
 
 fdisk /dev/sda <<EOF!
 d
+5
+d
 2
 n
 e
