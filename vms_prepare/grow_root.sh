@@ -8,7 +8,9 @@ if [[ ${ANS} != ${HOST} ]];then echo Bay Bay;exit;fi
 
 ssh-keygen -R ${HOST}
 
-scp grow_root_part1.sh grow_root_part2.sh ${USER}@${HOST}:~/ || (ssh ${USER}@${HOST} "which scp || (ls -l /etc/redhat-release && yum install -y openssh-clients);" && scp grow_root_part1.sh grow_root_part2.sh ${USER}@${HOST}:~/)
+scp grow_root_part1.sh grow_root_part2.sh ${USER}@${HOST}:~/ || (ssh ${USER}@${HOST} \
+"which scp || (ls -l /etc/redhat-release && yum install -y openssh-clients);" && \
+scp grow_root_part1.sh grow_root_part2.sh ${USER}@${HOST}:~/)
 
 ssh ${USER}@${HOST} "/bin/bash ~/grow_root_part1.sh;exit" 
 
