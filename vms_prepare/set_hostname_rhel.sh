@@ -25,6 +25,6 @@ then
     echo \${HOST_NAME} > /etc/hostname
   fi
 fi
-#reboot
+reboot
 EOF!
 
