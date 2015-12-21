@@ -1,7 +1,9 @@
+fdisk -l /dev/sda
+
 if [[ -z `fdisk -l /dev/sda|grep sda2|grep Extended` ]]
 then
 
-if [[ -z `fdisk -l /dev/sda|tail -1|grep cylinder` ]]
+if [[ -z `fdisk -l /dev/sda|tail -1|grep cylinder` && `fdisk -l /dev/sda|grep '/dev/sda1'|awk '{print $3}'` -eq 1 ]]
 then 
 fdisk /dev/sda <<EOF!
 d

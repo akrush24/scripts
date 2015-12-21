@@ -17,7 +17,15 @@ ssh ${USER}@${HOST} "/bin/bash ~/grow_root_part1.sh;exit"
 
 sleep 20
 ping ${HOST} -c 2 || sleep 10
-ping ${HOST} -c 2 || sleep 20
-ping ${HOST} -c 2 || sleep 20
+ping ${HOST} -c 2 || sleep 10
+ping ${HOST} -c 2 || sleep 10
 
-ssh ${USER}@${HOST} "/bin/bash ~/grow_root_part2.sh;rm ~/grow_root_part1.sh ~/grow_root_part2.sh;history -c;" 
+ssh ${USER}@${HOST} "/bin/bash ~/grow_root_part2.sh;rm ~/grow_root_part1.sh ~/grow_root_part2.sh;history -c; reboot"
+
+ping ${HOST} -c 2 || sleep 10
+ping ${HOST} -c 2 || sleep 10
+ping ${HOST} -c 2 || sleep 10
+ping ${HOST} -c 2 || sleep 10
+ping ${HOST} -c 2 || sleep 10
+
+ping ${HOST} -c 2 && echo -e '\n\n OK!!! The Server Alive! =)' || echo -e '\n\n ERROR!!! The Server has DIED! =('
