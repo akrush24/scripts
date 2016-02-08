@@ -1,43 +1,27 @@
+echo "++++ STAR ++++"
 fdisk -l /dev/sda
+
+START_SEC=`fdisk -lc /dev/sda|awk '{if($1 == "/dev/sda2"){print $2}}'`
 
 if [[ -z `fdisk -l /dev/sda|grep sda2|grep Extended` ]]
 then
 
-if [[ -z `fdisk -l /dev/sda|tail -1|grep cylinder` && ( `fdisk -l /dev/sda|grep '/dev/sda1'|awk '{print $3}'` -eq 1 || `fdisk -l /dev/sda|grep '/dev/sda1'|awk '{print $3}'` -eq 2048 ) ]]
-then 
+#if [[  `fdisk -l /dev/sda|grep '/dev/sda1'|awk '{print $3}'` -eq 1 || `fdisk -l /dev/sda|grep '/dev/sda1'|awk '{print $3}'` -eq 2048 ]]
+#then 
 fdisk /dev/sda <<EOF!
 d
 2
 n
 p
 2
-
-
-w
-q
-EOF!
-
-else
-fdisk /dev/sda <<EOF!
-d
-2
-n
-p
-3
-
-
-n
-p
-2
-
-
-d
-3
+${START_SEC}
 
 w
 q
 EOF!
-fi
+
+
+#fi
 
 else
 
@@ -60,4 +44,9 @@ q
 EOF!
 
 fi
+
+echo "---- FINISH -----"
+fdisk -l /dev/sda
+
+
 reboot

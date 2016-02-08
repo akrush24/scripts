@@ -21,7 +21,7 @@ ping ${HOST} -c 2 || sleep 10
 ping ${HOST} -c 2 || sleep 10
 
 ssh ${USER}@${HOST} "/bin/bash ~/grow_root_part2.sh;rm ~/grow_root_part1.sh ~/grow_root_part2.sh;history -c; reboot"
-
+sleep 10
 ping ${HOST} -c 2 || sleep 10
 ping ${HOST} -c 2 || sleep 10
 ping ${HOST} -c 2 || sleep 10
