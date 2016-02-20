@@ -7,6 +7,8 @@ if [[ -z $3 ]];then read -p "Enter new mashin name, please: " HOST_NAME;else HOS
 /usr/bin/ssh-keygen -R ${HOST}
 ssh ${USER}@${HOST} <<EOF!
 HOST_NAME=${HOST_NAME} 
+IT=${HOST}
+
 if [[ -z \${HOST_NAME}  ]];then HOST_NAME=\`/bin/hostname\`;fi
 if [[ -f /etc/redhat-release ]]
 then 
