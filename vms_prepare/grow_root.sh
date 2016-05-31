@@ -9,23 +9,26 @@ if [[ ${ANS} != ${HOST} ]];then echo Bay Bay;exit;fi
 
 ssh-keygen -R ${HOST}
 
-scp grow_root_part1.sh grow_root_part2.sh ${USER}@${HOST}:~/ || (ssh ${USER}@${HOST} \
+scp grow-root-partI.sh grow-root-partII.sh ${USER}@${HOST}:~/ || (ssh ${USER}@${HOST} \
 "which scp || (ls -l /etc/redhat-release && yum install -y openssh-clients);" && \
-scp grow_root_part1.sh grow_root_part2.sh ${USER}@${HOST}:~/)
+scp grow-root-partI.sh grow-root-partII.sh ${USER}@${HOST}:~/)
 
-ssh ${USER}@${HOST} "/bin/bash ~/grow_root_part1.sh;exit" 
+ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partI.sh;/bin/rm ~/grow-root-partI.sh;exit" && echo "\n\n PART I .... OK!"
 
-sleep 20
-ping ${HOST} -c 2 || sleep 10
-ping ${HOST} -c 2 || sleep 10
-ping ${HOST} -c 2 || sleep 10
+sleep 60
 
-ssh ${USER}@${HOST} "/bin/bash ~/grow_root_part2.sh;rm ~/grow_root_part1.sh ~/grow_root_part2.sh;history -c; reboot"
+ping ${HOST} -c 2 &>/dev/null || sleep 10
+ping ${HOST} -c 2 &>/dev/null || sleep 20
+ping ${HOST} -c 2 &>/dev/null || sleep 30
+ping ${HOST} -c 2 &>/dev/null || sleep 40
+
+ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partII.sh && rm ~/grow-root-partII.sh && reboot" && echo "\n\n PART II .... OK!" || (sleep 60; ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partII.sh && rm ~/grow-root-partII.sh && reboot" && echo -e "\n\n PART II .... OK!" || echo -e '\n\n ERROR!!! Server not rensponsibel')
+
 sleep 10
-ping ${HOST} -c 2 || sleep 10
-ping ${HOST} -c 2 || sleep 10
-ping ${HOST} -c 2 || sleep 10
-ping ${HOST} -c 2 || sleep 10
-ping ${HOST} -c 2 || sleep 10
+ping ${HOST} -c 2 &>/dev/null || sleep 10
+ping ${HOST} -c 2 &>/dev/null || sleep 20
+ping ${HOST} -c 2 &>/dev/null || sleep 30
+ping ${HOST} -c 2 &>/dev/null || sleep 40
+ping ${HOST} -c 2 &>/dev/null || sleep 50
 
-ping ${HOST} -c 2 && echo -e '\n\n OK!!! The Server Alive! =)' || echo -e '\n\n ERROR!!! The Server has DIED! =('
+ping ${HOST} -c 2 || echo -e '\n\n ERROR!!! The Server has DIED! =('

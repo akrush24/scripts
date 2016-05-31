@@ -1,4 +1,4 @@
-echo "++++ STAR ++++"
+echo -e "\n++++ STAR ++++"
 fdisk -l /dev/sda
 
 START_SEC=`fdisk -lc /dev/sda|awk '{if($1 == "/dev/sda2"){print $2}}'`
@@ -40,7 +40,7 @@ EOF!
 
 fi
 
-echo "---- FINISH -----"
+echo -e "\n---- FINISH -----"
 fdisk -l /dev/sda
 
 
