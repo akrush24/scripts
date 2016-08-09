@@ -13,7 +13,7 @@ scp grow-root-partI.sh grow-root-partII.sh ${USER}@${HOST}:~/ || (ssh ${USER}@${
 "which scp || (ls -l /etc/redhat-release && yum install -y openssh-clients);" && \
 scp grow-root-partI.sh grow-root-partII.sh ${USER}@${HOST}:~/)
 
-ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partI.sh;/bin/rm ~/grow-root-partI.sh;exit" && echo "\n\n PART I .... OK!"
+ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partI.sh; /bin/rm ~/grow-root-partI.sh;exit" && echo "\n\n PART I .... OK!"
 
 sleep 60
 
