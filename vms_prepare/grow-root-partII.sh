@@ -6,4 +6,6 @@ else
  pvresize ${DEV} && lvresize -l +100%FREE `mount | grep \/\ |awk '{print $1}'` && resize2fs `mount | grep \/\ |awk '{print $1}'`
 fi
 
+echo -e "\n"
 df -h /
+echo -e "\n"

@@ -40,6 +40,6 @@ EOF!
 
 fi
 
-echo -e "\n---- FINISH -----"
+echo -e "\n---- FINISH -----\n"
 fdisk -l /dev/sda
-
+echo -e "\n"
