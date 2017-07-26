@@ -7,6 +7,8 @@ echo -e "\nAre You sure You want to repartition root filesystem in ${HOST}?\n\nW
 read -p "Please type ${HOST} to run or anything should exit: " ANS
 if [[ ${ANS} != ${HOST} ]];then echo Bay Bay;exit;fi
 
+
+
 ssh-keygen -R ${HOST}
 
 scp grow-root-partI.sh grow-root-partII.sh ${USER}@${HOST}:~/ || (ssh ${USER}@${HOST} \
@@ -15,14 +17,14 @@ scp grow-root-partI.sh grow-root-partII.sh ${USER}@${HOST}:~/)
 
 ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partI.sh && /bin/rm ~/grow-root-partI.sh && reboot" && echo -e "\n\n PART I .... OK!"
 
-sleep 5
+sleep 10
 
-ping ${HOST} -c 2 -w 1 &>/dev/null || (echo "#1: no ping :("; sleep 10)
-ping ${HOST} -c 2 -w 1 &>/dev/null || (echo "#2: no ping :("; sleep 10)
-ping ${HOST} -c 2 -w 1 &>/dev/null || (echo "#3: no ping :("; sleep 10)
-ping ${HOST} -c 2 -w 1 &>/dev/null || (echo "#4: no ping :("; sleep 10)
-ping ${HOST} -c 2 -w 1 &>/dev/null || (echo "#5: no ping :("; sleep 10)
-ping ${HOST} -c 2 -w 1 &>/dev/null || (echo "#6: no ping..... The Server has DIED!";)
+ping ${HOST} -c 2  &>/dev/null || (echo "#1: no ping :("; sleep 10)
+ping ${HOST} -c 2  &>/dev/null || (echo "#2: no ping :("; sleep 10)
+ping ${HOST} -c 2  &>/dev/null || (echo "#3: no ping :("; sleep 10)
+ping ${HOST} -c 2  &>/dev/null || (echo "#4: no ping :("; sleep 10)
+ping ${HOST} -c 2  &>/dev/null || (echo "#5: no ping :("; sleep 10)
+ping ${HOST} -c 2  &>/dev/null || (echo "#6: no ping..... The Server has DIED!";)
 
 ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partII.sh && /bin/rm ~/grow-root-partII.sh && reboot" && echo -e "\n\n PART II .... OK!"
 
