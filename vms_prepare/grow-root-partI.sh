@@ -43,5 +43,3 @@ fi
 echo -e "\n---- FINISH -----"
 fdisk -l /dev/sda
 
-
-reboot

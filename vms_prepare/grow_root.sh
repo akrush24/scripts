@@ -13,7 +13,7 @@ scp grow-root-partI.sh grow-root-partII.sh ${USER}@${HOST}:~/ || (ssh ${USER}@${
 "which scp || (ls -l /etc/redhat-release && yum install -y openssh-clients);" && \
 scp grow-root-partI.sh grow-root-partII.sh ${USER}@${HOST}:~/)
 
-ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partI.sh; /bin/rm ~/grow-root-partI.sh;exit" && echo "\n\n PART I .... OK!"
+ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partI.sh && /bin/rm ~/grow-root-partI.sh && reboot" && echo "\n\n PART I .... OK!"
 
 sleep 60
 
@@ -22,7 +22,7 @@ ping ${HOST} -c 2 &>/dev/null || sleep 20
 ping ${HOST} -c 2 &>/dev/null || sleep 30
 ping ${HOST} -c 2 &>/dev/null || sleep 40
 
-ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partII.sh && rm ~/grow-root-partII.sh && reboot" && echo "\n\n PART II .... OK!" || (sleep 60; ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partII.sh && rm ~/grow-root-partII.sh && reboot" && echo -e "\n\n PART II .... OK!" || echo -e '\n\n ERROR!!! Server not rensponsibel')
+ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partII.sh && /bin/rm ~/grow-root-partII.sh && reboot" && echo "\n\n PART II .... OK!" || (sleep 60; ssh ${USER}@${HOST} "/bin/bash ~/grow-root-partII.sh && rm ~/grow-root-partII.sh && reboot" && echo -e "\n\n PART II .... OK!" || echo -e '\n\n ERROR!!! Server not rensponsibel')
 
 sleep 10
 ping ${HOST} -c 2 &>/dev/null || sleep 10
