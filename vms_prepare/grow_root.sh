@@ -29,7 +29,7 @@ ping ${HOST} -c 2  &>/dev/null || (echo "#6: no ping..... The Server has DIED!";
 for t in $(seq 5)
 do
   ssh -o StrictHostKeyChecking=no ${USER}@${HOST} "/bin/bash ~/grow-root-partII.sh && /bin/rm ~/grow-root-partII.sh && reboot" && echo -e "\n\n PART II .... OK!"
-  if [ $? -eq 0 ];then break;else sleep 10;done
+  if [ $? -eq 0 ];then break;else sleep 10;fi
 done
 
 sleep 5
