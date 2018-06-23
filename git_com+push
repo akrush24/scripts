@@ -1,4 +1,6 @@
 #!/bin/bash
+git config --global user.email "$USER@$HOSTNAME"
+git config --global user.name "Andrey"
 git add -A
 git commit -a -m "From ${HOSTNAME}, `date +%Y.%m.%d\ %H:%M:%S`"
 git push -u origin master
